@@ -5,7 +5,7 @@ title: "My first Quarto document"
 ## Intro
 
 
-**Macalester College** is in the *Twin Cities*.
+**Macalester College** is in the *Twin Cities*hahaha.
 It has:
 
 - four seasons
